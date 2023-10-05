@@ -17,16 +17,16 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="mailto:guilhermecugler@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:guilhermecugler@gmail.com" /></a>
 
-  <a href="#" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/guilhermecugler/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermecugler/" /></a>
 
-  <a href="#" alt="WhatsApp">
+  <a href="https://wa.me/5513997230761" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5513997230761"/></a>
 
-  <a href="#" alt="Facebook">
+  <a href="https://facebook.com/guilhermecugler" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://facebook.com/guilhermecugler"/></a>
 
   <a href="https://www.instagram.com/guilhermecugler/" alt="Instagram">
