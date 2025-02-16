@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/whoiscugler" target="blank"><img src="https://img.shields.io/twitter/follow/whoiscugler?logo=twitter&style=for-the-badge" alt="whoiscugler" /></a> </p>
 
-- 🔭 I’m currently working on [Scraper Casa dos Dados](https://github.com/guilhermecugler/Scraper-Casa-dos-Dados)
+- 🔭 I’m currently working on [Instagram Close Friends Manager](https://github.com/guilhermecugler/InstagramCloseFriendsManagerPython) and [Scraper Casa dos Dados](https://github.com/guilhermecugler/Scraper-Casa-dos-Dados)
 - 🌱 I’m currently learning **Python, Java, Spring**
 - 👨‍💻 All of my projects are available at [https://github.com/guilhermecugler](https://github.com/guilhermecugler)
 - 📫 How to reach me **guilhermecugler@gmail.com**
