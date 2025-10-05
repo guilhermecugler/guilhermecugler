@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 - **Currently working on**:  
-  [Instagram Close Friends Manager](https://github.com/guilhermecugler/InstagramCloseFriendsManagerPython) | [Scraper Casa dos Dados](https://github.com/guilhermecugler/Scraper-Casa-dos-Dados)
+  [Instagram Close Friends Manager](https://github.com/guilhermecugler/InstagramCloseFriendsManagerPython) | [Casa dos Dados Offline](https://github.com/guilhermecugler/CasaDosDadosOffline)
 - **Learning**: Python 🐍, Java ☕, Node｡🇯‌🇸‌
 - **Freelancing**: Available for projects on [99Freelas](https://www.99freelas.com.br/user/guilhermecugler)
 - **Contact**:  
